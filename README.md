@@ -27,5 +27,13 @@ Your `tailwind.config.ts` and `globals.css` are already set up to use the compon
 To use the components in your app, import them from the `ui` package.
 
 ```tsx
-import { Button } from "@workspace/ui/components/button"
+import { Button } from '@workspace/ui/components/button';
 ```
+
+## Turborepo
+
+- Create internal package : https://turborepo.com/docs/crafting-your-repository/creating-an-internal-package
+
+## Convex
+
+- https://github.com/get-convex/turbo-expo-nextjs-clerk-convex-monorepo/tree/main
